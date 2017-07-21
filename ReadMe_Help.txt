@@ -24,3 +24,10 @@ Browser
 
 Default browser font size is set to 16px
 
+*********************************************
+CSS
+*********************************************
+
+Margin
+margin: 0 0 1.8rem 0;
+TOP,LEFT,BOTTOM,RIGHT
