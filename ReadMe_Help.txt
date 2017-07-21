@@ -13,8 +13,15 @@ git status
 //commit
 git commit -m "made change"
 
+
 // now push
 git push origin master
+
+// branches
+git merge our-features --no-ff ***NO FAST FORWARD KEEP HISTORY
+AFTER ENTER
+esc > :wq > enter
+
 
 
 
