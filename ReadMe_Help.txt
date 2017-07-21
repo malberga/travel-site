@@ -1,11 +1,26 @@
 ReadMe
+
+**********
+GIT
+**********
+//get the status
 git status
 
-then stage
+//then stage
 git add -A
 git status
 
-commit
+//commit
 git commit -m "made change"
 
+// now push
 git push origin master
+
+
+
+*********
+Browser
+*********
+
+Default browser font size is set to 16px
+
