@@ -23,6 +23,10 @@ AFTER ENTER
 esc > :wq > enter
 
 
+// find remote directory
+git remote -v
+
+
 
 
 *********
